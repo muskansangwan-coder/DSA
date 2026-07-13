@@ -1,5 +1,5 @@
 # DSA
-solving leetcode DSA questions
+solving LeetCode DSA questions
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
