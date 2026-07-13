@@ -1,5 +1,5 @@
 # DSA
-solving leetcode and striver sheet dsa questions
+solving leetcode DSA questions
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
