@@ -28,6 +28,7 @@ solving LeetCode DSA questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/muskansangwan-coder/DSA/tree/main/0001-two-sum/) | Easy |
+| [0054-spiral-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0136-single-number](https://github.com/muskansangwan-coder/DSA/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/muskansangwan-coder/DSA/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
@@ -50,4 +51,12 @@ solving LeetCode DSA questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muskansangwan-coder/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
