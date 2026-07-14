@@ -17,6 +17,7 @@ solving LeetCode DSA questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/muskansangwan-coder/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muskansangwan-coder/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +44,8 @@ solving LeetCode DSA questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/muskansangwan-coder/DSA/tree/main/0136-single-number/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muskansangwan-coder/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
