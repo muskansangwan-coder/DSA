@@ -12,13 +12,10 @@ public:
 
             else {
                 if (count > 1) {
-                    int st = index;
-                    while (count != 0) {
-                        int rem = count % 10;
-                        chars[index++] = rem + '0';
-                        count /= 10;
+                    string ct = to_string(count);
+                    for (char ch : ct) {
+                        chars[index++] = ch;
                     }
-                    reverse(chars.begin() + st, chars.begin() + index);
                 }
                 count = 1;
             }
