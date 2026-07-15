@@ -19,13 +19,13 @@ public:
             ecol--;
 
             // ending row
-            for (int index = ecol; (srow <= erow && index >= scol); index--) {
+            for (int index = ecol; (i <=n*n && index >= scol); index--) {
                 matrix[erow][index] = i++;
             }
             erow--;
 
             // starting column
-            for (int index = erow; (scol <= ecol && index >= srow); index--) {
+            for (int index = erow; (i <=n*n && index >= srow); index--) {
                 matrix[index][scol] = i++;
             }
             scol++;
