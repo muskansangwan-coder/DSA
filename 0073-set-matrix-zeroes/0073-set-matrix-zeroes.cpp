@@ -1,27 +1,55 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
+        bool firstRow = false;
+        bool firstCol = false;
+
         int rows = matrix.size();
         int cols = matrix[0].size();
 
-        vector<bool> row(rows,false);
-        vector<bool> col(cols,false);
+        // checking zero in first row
+        for (int i = 0; i < cols; i++) {
+            if (matrix[0][i] == 0)
+                firstRow = true;
+        }
 
-        for (int r = 0; r < rows; r++) {
-            for (int c = 0; c < cols; c++) {
-                if (matrix[r][c] == 0) {
-                    row[r] =true;
-                    col[c] =true;
+        // checking zero in first column
+        for (int i = 0; i < rows; i++) {
+            if (matrix[i][0] == 0)
+                firstCol = true;
+        }
+
+        // checking zero in remaining matrix
+        for (int i = 1; i < rows; i++) {
+            for (int j = 1; j < cols; j++) {
+                if (matrix[i][j] == 0) {
+                    matrix[0][j] = 0;
+                    matrix[i][0] = 0;
                 }
             }
         }
 
-        for (int r = 0; r < rows; r++) {
-            for (int c = 0; c < cols; c++) {
-                if (row[r] || col[c]) {
-                    matrix[r][c] =0;
+        // set zero in remaining matrix
+        for (int i = 1; i < rows; i++) {
+            for (int j = 1; j < cols; j++) {
+                if (matrix[0][j] == 0 || matrix[i][0] == 0 ){
+                    matrix[i][j] = 0;
                 }
             }
         }
+
+        // set zero in first row
+        if(firstRow){
+            for(int i =0; i<cols ;i++){
+                matrix[0][i] = 0;
+            }
+        } 
+    
+        // set zero in first column
+        if(firstCol){
+            for(int i =0; i<rows ;i++){
+                matrix[i][0] = 0;
+            }
+        } 
     }
 };
