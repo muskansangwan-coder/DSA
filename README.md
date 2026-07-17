@@ -1,5 +1,9 @@
 # DSA
-solving LeetCode DSA questions
+Solving LeetCode DSA questions
+Progress : 16
+Tech Stack : C++
+Platform : LeetCode
+Goal : Master core DSA for Tier-1 placements 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
