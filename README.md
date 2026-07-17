@@ -42,6 +42,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0169-majority-element](https://github.com/muskansangwan-coder/DSA/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0867-transpose-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/muskansangwan-coder/DSA/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0074-search-a-2d-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0867-transpose-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/muskansangwan-coder/DSA/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -81,6 +83,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0054-spiral-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0867-transpose-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/muskansangwan-coder/DSA/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
