@@ -12,8 +12,7 @@ public:
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 int index = cols * i + j;
-                int val =mat[i][j];
-                matrix[index / c][index % c] = val;
+                matrix[index / c][index % c] = mat[i][j];
             }
         }
 
