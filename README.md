@@ -37,6 +37,7 @@ solving LeetCode DSA questions
 | [0136-single-number](https://github.com/muskansangwan-coder/DSA/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/muskansangwan-coder/DSA/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,11 +68,13 @@ solving LeetCode DSA questions
 | [0073-set-matrix-zeroes](https://github.com/muskansangwan-coder/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
