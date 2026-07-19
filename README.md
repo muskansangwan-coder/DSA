@@ -17,12 +17,14 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/muskansangwan-coder/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/muskansangwan-coder/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/muskansangwan-coder/DSA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/muskansangwan-coder/DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/muskansangwan-coder/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/muskansangwan-coder/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/muskansangwan-coder/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0443-string-compression](https://github.com/muskansangwan-coder/DSA/tree/main/0443-string-compression/) | Medium |
