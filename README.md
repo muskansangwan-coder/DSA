@@ -49,6 +49,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0240-search-a-2d-matrix-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0867-transpose-matrix/) | Easy |
+| [1260-shift-2d-grid](https://github.com/muskansangwan-coder/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muskansangwan-coder/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/muskansangwan-coder/DSA/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Divide and Conquer
@@ -88,6 +89,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0240-search-a-2d-matrix-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0867-transpose-matrix/) | Easy |
+| [1260-shift-2d-grid](https://github.com/muskansangwan-coder/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/muskansangwan-coder/DSA/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -96,6 +98,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0059-spiral-matrix-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0867-transpose-matrix/) | Easy |
+| [1260-shift-2d-grid](https://github.com/muskansangwan-coder/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/muskansangwan-coder/DSA/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
