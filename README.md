@@ -46,6 +46,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0074-search-a-2d-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0136-single-number](https://github.com/muskansangwan-coder/DSA/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/muskansangwan-coder/DSA/tree/main/0169-majority-element/) | Easy |
+| [0204-count-primes](https://github.com/muskansangwan-coder/DSA/tree/main/0204-count-primes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0867-transpose-matrix/) | Easy |
@@ -104,6 +105,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/muskansangwan-coder/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0204-count-primes](https://github.com/muskansangwan-coder/DSA/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/muskansangwan-coder/DSA/tree/main/0231-power-of-two/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muskansangwan-coder/DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muskansangwan-coder/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -111,6 +113,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/muskansangwan-coder/DSA/tree/main/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muskansangwan-coder/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muskansangwan-coder/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Binary Search
@@ -132,4 +135,8 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/muskansangwan-coder/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/muskansangwan-coder/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/muskansangwan-coder/DSA/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
