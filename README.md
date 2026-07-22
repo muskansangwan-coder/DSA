@@ -20,6 +20,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskansangwan-coder/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/muskansangwan-coder/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/muskansangwan-coder/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/muskansangwan-coder/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0443-string-compression](https://github.com/muskansangwan-coder/DSA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/muskansangwan-coder/DSA/tree/main/0567-permutation-in-string/) | Medium |
 ## String
@@ -50,6 +51,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0074-search-a-2d-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0136-single-number](https://github.com/muskansangwan-coder/DSA/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/muskansangwan-coder/DSA/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/muskansangwan-coder/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/muskansangwan-coder/DSA/tree/main/0204-count-primes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -113,6 +115,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0009-palindrome-number](https://github.com/muskansangwan-coder/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/muskansangwan-coder/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/muskansangwan-coder/DSA/tree/main/0050-powx-n/) | Medium |
+| [0189-rotate-array](https://github.com/muskansangwan-coder/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/muskansangwan-coder/DSA/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/muskansangwan-coder/DSA/tree/main/0231-power-of-two/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muskansangwan-coder/DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
