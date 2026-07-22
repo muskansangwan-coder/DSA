@@ -24,6 +24,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/muskansangwan-coder/DSA/tree/main/0006-zigzag-conversion/) | Medium |
 | [0125-valid-palindrome](https://github.com/muskansangwan-coder/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/muskansangwan-coder/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/muskansangwan-coder/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
