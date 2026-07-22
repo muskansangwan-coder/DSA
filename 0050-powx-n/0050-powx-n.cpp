@@ -22,11 +22,11 @@ public:
         double ans = 1;
 
         while (binForm > 0) {
-            if (binForm & 1) {
+            if (binForm & 1) {      // checks if binForm is odd
                 ans *= x;
             }
 
-            x *= x;
+            x *= x;         //right shift( divide by 2 )
             binForm >>= 1;
         }
 
