@@ -1,14 +1,14 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if(numRows<= 1)
+        if (numRows <= 1)
             return s;
 
-        if(numRows > s.size())
+        if (numRows > s.size())
             return s;
 
-        vector<vector<char>> vec(numRows , vector<char>(s.size() , ' '));
-        int index = 0 , col =0, i = 0;
+        vector<vector<char>> vec(numRows, vector<char>(s.size(), ' '));
+        int index = 0, col = 0, i = 0;
 
         while (index < s.size()) {
             for (i = 0; i < numRows && index < s.size(); i++) {
@@ -16,7 +16,7 @@ public:
             }
             col++;
             i -= 2;
-            while(i>0 && index < s.size()){
+            while (i > 0 && index < s.size()) {
                 vec[i--][col++] = s[index++];
             }
         }
@@ -24,10 +24,10 @@ public:
         int cols = s.size();
         string str = "";
 
-        for(i = 0; i<numRows ; i++){
-            for(int j =0; j< cols; j++){
+        for (i = 0; i < numRows; i++) {
+            for (int j = 0; j < cols; j++) {
                 char ch = vec[i][j];
-                if(ch != ' '){
+                if (ch != ' ') {
                     str.push_back(ch);
                 }
             }
