@@ -31,6 +31,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0567-permutation-in-string](https://github.com/muskansangwan-coder/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muskansangwan-coder/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/muskansangwan-coder/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/muskansangwan-coder/DSA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +140,5 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/muskansangwan-coder/DSA/tree/main/0204-count-primes/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/muskansangwan-coder/DSA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 <!---LeetCode Topics End-->
