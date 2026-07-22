@@ -10,12 +10,12 @@ public:
             mini = min(mini, nums[i]);
         }
 
-        int gcd = 1;
-        // finding GCD
-        for (int i = 2; i <= mini; i++) {
-            if (maxi % i == 0 && mini % i == 0)
-                gcd = i;
+        while(maxi != mini){
+            if(maxi > mini)
+                maxi -= mini;
+            else
+                mini -= maxi;
         }
-        return gcd;
+        return mini;
     }
 };
