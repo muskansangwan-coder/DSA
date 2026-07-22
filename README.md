@@ -107,6 +107,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/muskansangwan-coder/DSA/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/muskansangwan-coder/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/muskansangwan-coder/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/muskansangwan-coder/DSA/tree/main/0050-powx-n/) | Medium |
 | [0204-count-primes](https://github.com/muskansangwan-coder/DSA/tree/main/0204-count-primes/) | Medium |
