@@ -57,6 +57,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0169-majority-element](https://github.com/muskansangwan-coder/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/muskansangwan-coder/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/muskansangwan-coder/DSA/tree/main/0204-count-primes/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/muskansangwan-coder/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/muskansangwan-coder/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/muskansangwan-coder/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -166,4 +167,8 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muskansangwan-coder/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/muskansangwan-coder/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
