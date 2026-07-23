@@ -50,6 +50,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0059-spiral-matrix-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/muskansangwan-coder/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/muskansangwan-coder/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/muskansangwan-coder/DSA/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/muskansangwan-coder/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/muskansangwan-coder/DSA/tree/main/0189-rotate-array/) | Medium |
@@ -158,4 +159,8 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | ------- | ------- |
 | [0204-count-primes](https://github.com/muskansangwan-coder/DSA/tree/main/0204-count-primes/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/muskansangwan-coder/DSA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/muskansangwan-coder/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
