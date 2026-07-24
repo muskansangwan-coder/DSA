@@ -78,6 +78,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [2022-convert-1d-array-into-2d-array](https://github.com/muskansangwan-coder/DSA/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/muskansangwan-coder/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/muskansangwan-coder/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/muskansangwan-coder/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0191-number-of-1-bits](https://github.com/muskansangwan-coder/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/muskansangwan-coder/DSA/tree/main/0231-power-of-two/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/muskansangwan-coder/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/muskansangwan-coder/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muskansangwan-coder/DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muskansangwan-coder/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/muskansangwan-coder/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/muskansangwan-coder/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muskansangwan-coder/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -178,6 +181,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | ------- | ------- |
 | [0204-count-primes](https://github.com/muskansangwan-coder/DSA/tree/main/0204-count-primes/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/muskansangwan-coder/DSA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/muskansangwan-coder/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
