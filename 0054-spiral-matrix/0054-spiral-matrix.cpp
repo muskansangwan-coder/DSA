@@ -3,35 +3,30 @@ public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
         int rows = matrix.size();
         int cols = matrix[0].size();
-        vector<int> ans;
+        int startRow = 0 , endRow = rows - 1 , startCol = 0 , endCol = cols-1;
+        vector<int> spiral;
 
-        int srow = 0, scol = 0, erow = rows - 1, ecol = cols - 1;
+        while(startRow <= endRow && startCol <= endCol){
+            // add starting row
+            for(int i = startCol; i <= endCol; i++)
+                spiral.push_back(matrix[startRow][i]);
+            startRow++;
 
-        while (srow <= erow && scol <= ecol) {
-            // starting row
-            for (int index = scol; index <= ecol; index++) {
-                ans.push_back(matrix[srow][index]);
-            }
-            srow++;
+            // add ending column
+            for(int i = startRow; i <= endRow; i++)
+                spiral.push_back(matrix[i][endCol]);
+            endCol--;
 
-            // ending column
-            for (int index = srow; index <= erow; index++) {
-                ans.push_back(matrix[index][ecol]);
-            }
-            ecol--;
+            // add ending row in reverse order
+            for(int i = endCol; i >= startCol && startRow <= endRow; i--)
+                spiral.push_back(matrix[endRow][i]);
+            endRow--;
 
-            // ending row
-            for (int index = ecol; (srow <= erow && index >= scol); index--) {
-                ans.push_back(matrix[erow][index]);
-            }
-            erow--;
-
-            // starting column
-            for (int index = erow; (scol <= ecol && index >= srow); index--) {
-                ans.push_back(matrix[index][scol]);
-            }
-            scol++;
+            // add starting colunm in reverse order
+            for(int i = endRow; i >= startRow && startCol <= endCol; i--)
+                spiral.push_back(matrix[i][startCol]);
+            startCol++;
         }
-        return ans;
+        return spiral;
     }
 };
