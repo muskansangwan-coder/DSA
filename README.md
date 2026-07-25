@@ -100,6 +100,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0075-sort-colors](https://github.com/muskansangwan-coder/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/muskansangwan-coder/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/muskansangwan-coder/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muskansangwan-coder/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/muskansangwan-coder/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/muskansangwan-coder/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/muskansangwan-coder/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muskansangwan-coder/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
