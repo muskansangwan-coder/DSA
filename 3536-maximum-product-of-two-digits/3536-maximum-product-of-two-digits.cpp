@@ -1,18 +1,18 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        // convert to string
-        string str = to_string(n);
+        int max1 = -1, max2 = -1;
 
-        // sort the string
-        sort(str.begin(), str.end());
-
-        int s = str.size();
-        
-        // find last two numbers of the string
-        int firstMax = str[s - 1] - '0';
-        int secondMax = str[s - 2] - '0';
-
-        return firstMax * secondMax;
+        while (n) {
+            int digit = n % 10;
+            if (digit >= max1) {
+                max2 = max1;
+                max1 = digit;
+            } else if (digit > max2) {
+                max2 = digit;
+            }
+            n /= 10;
+        }
+        return max1 * max2;
     }
 };
