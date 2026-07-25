@@ -62,6 +62,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0073-set-matrix-zeroes](https://github.com/muskansangwan-coder/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/muskansangwan-coder/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/muskansangwan-coder/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muskansangwan-coder/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/muskansangwan-coder/DSA/tree/main/0136-single-number/) | Easy |
@@ -168,6 +169,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/muskansangwan-coder/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/muskansangwan-coder/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/muskansangwan-coder/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/muskansangwan-coder/DSA/tree/main/0704-binary-search/) | Easy |
