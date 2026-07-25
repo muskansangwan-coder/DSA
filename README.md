@@ -53,6 +53,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskansangwan-coder/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/muskansangwan-coder/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/muskansangwan-coder/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/muskansangwan-coder/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/muskansangwan-coder/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/muskansangwan-coder/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0054-spiral-matrix/) | Medium |
@@ -163,6 +164,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/muskansangwan-coder/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/muskansangwan-coder/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/muskansangwan-coder/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
