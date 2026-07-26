@@ -33,6 +33,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/muskansangwan-coder/DSA/tree/main/0006-zigzag-conversion/) | Medium |
+| [0014-longest-common-prefix](https://github.com/muskansangwan-coder/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/muskansangwan-coder/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/muskansangwan-coder/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/muskansangwan-coder/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -52,6 +53,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | ------- | ------- |
 | [0001-two-sum](https://github.com/muskansangwan-coder/DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/muskansangwan-coder/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/muskansangwan-coder/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskansangwan-coder/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/muskansangwan-coder/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/muskansangwan-coder/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -219,4 +221,8 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/muskansangwan-coder/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/muskansangwan-coder/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
