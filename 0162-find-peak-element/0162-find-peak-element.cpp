@@ -4,16 +4,7 @@ public:
         int n = nums.size();
         int left = 0, right = n - 1;
 
-        if (n == 1)
-            return 0;
-        if (n == 2) {
-            if (nums[0] > nums[1])
-                return 0;
-            else
-                return 1;
-        }
-
-        while (left <= right) {
+        while (left < right) {
             int mid = left + (right - left) / 2;
             int num = nums[mid];
 
@@ -28,6 +19,6 @@ public:
             else
                 right = mid - 1;
         }
-        return -1;
+        return left;
     }
 };
