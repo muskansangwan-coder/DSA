@@ -79,6 +79,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0485-max-consecutive-ones](https://github.com/muskansangwan-coder/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/muskansangwan-coder/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/muskansangwan-coder/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/muskansangwan-coder/DSA/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/muskansangwan-coder/DSA/tree/main/1260-shift-2d-grid/) | Easy |
@@ -102,6 +103,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0075-sort-colors](https://github.com/muskansangwan-coder/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/muskansangwan-coder/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/muskansangwan-coder/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/muskansangwan-coder/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -156,6 +158,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0189-rotate-array](https://github.com/muskansangwan-coder/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/muskansangwan-coder/DSA/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/muskansangwan-coder/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/muskansangwan-coder/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muskansangwan-coder/DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muskansangwan-coder/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/muskansangwan-coder/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
