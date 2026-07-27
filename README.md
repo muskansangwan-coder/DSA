@@ -87,6 +87,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0867-transpose-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/muskansangwan-coder/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/muskansangwan-coder/DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muskansangwan-coder/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/muskansangwan-coder/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muskansangwan-coder/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/muskansangwan-coder/DSA/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -107,6 +108,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0169-majority-element](https://github.com/muskansangwan-coder/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/muskansangwan-coder/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muskansangwan-coder/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/muskansangwan-coder/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -225,4 +227,8 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/muskansangwan-coder/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muskansangwan-coder/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
