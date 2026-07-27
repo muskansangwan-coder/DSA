@@ -3,39 +3,27 @@ public:
     bool isIsomorphic(string s, string t) {
 
         /*    Time Complexity    ---    O(N)
-              Space Complexity   ---    O(N)     */
+              Space Complexity   ---    O(1)     */
 
-        vector<int> vec1;
-        vector<int> vec2;
-        int count = 1;
 
-        // array to check ASCII character appeared in s before or not
+        // if strings are of differnt size , they cannot be isomorphic
+        if(s.size() != t.size())
+            return false;
+
+        // arrays to track the position where a character was last seen
         int seenS[256] = {0};
-
-        for (char ch : s) {
-            // new character so give it a number and increment count
-            if (seenS[ch] == 0) {
-                seenS[ch] = count++;
-            }
-            // add number given to the character in the vector1
-            vec1.push_back(seenS[ch]);
-        }
-
-        count = 1;
-
-        // array to check ASCII character appeared in t before or not
         int seenT[256] = {0};
 
-        for (char ch : t) {
-            // new character so give it a number and increment count
-            if (seenT[ch] == 0) {
-                seenT[ch] = count++;
+        for (int i=0;i<s.size();i++) {
+            // last positions of characters do not match , return false
+            if (seenS[s[i]] != seenT[t[i]]) {
+                return false;
             }
-             // add number given to the character in the vector2
-            vec2.push_back(seenT[ch]);
+            // record i + 1 as last position of cahracters in arrays
+            seenS[s[i]] = i+1;
+            seenT[t[i]] = i+1;
         }
 
-        // if both vectors are equal , strings are isomorphic
-        return vec1 == vec2;
+        return true;
     }
 };
