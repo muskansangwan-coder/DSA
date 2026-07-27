@@ -1,6 +1,10 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
+
+        /*    Time Complexity    ---    O(N)
+              Space Complexity   ---    O(N)     */
+
         vector<int> vec1;
         vector<int> vec2;
         int count = 1;
