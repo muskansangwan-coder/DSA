@@ -47,6 +47,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/muskansangwan-coder/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/muskansangwan-coder/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/muskansangwan-coder/DSA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/muskansangwan-coder/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +113,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0229-majority-element-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/muskansangwan-coder/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muskansangwan-coder/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/muskansangwan-coder/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/muskansangwan-coder/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -238,4 +240,8 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/muskansangwan-coder/DSA/tree/main/0796-rotate-string/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/muskansangwan-coder/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
