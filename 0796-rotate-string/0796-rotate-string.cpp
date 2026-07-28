@@ -1,25 +1,36 @@
 class Solution {
 public:
     bool rotateString(string s, string goal) {
-        if(s.size() != goal.size())
+
+        /*    Time Complexity    ---    O(N ^ 2)
+              Space Complexity   ---    O(N)     */
+
+
+        // if both strings are not of equal sizes      
+        if (s.size() != goal.size())
             return false;
 
-        if(s == goal)
+        // if both strings are same
+        if (s == goal)
             return true;
 
+        // double the string so that it contains all roatations
         s += s;
 
-        string str = s.substr(0 , goal.size());
-        int first = 0;
+        // create window of size of string
+        string str = s.substr(0, goal.size());
 
-        for(int i = goal.size(); i<s.size();i++){
-            str.erase(0 , 1);
+        // use sliding window and match every window with goal
+        for (int i = goal.size(); i < s.size(); i++) {
+            // delete previous character
+            str.erase(0, 1);
+            // add new character
             str += s[i];
 
-            if(str == goal)
+            // match strings
+            if (str == goal)
                 return true;
         }
-        cout << str;
         return false;
     }
 };
