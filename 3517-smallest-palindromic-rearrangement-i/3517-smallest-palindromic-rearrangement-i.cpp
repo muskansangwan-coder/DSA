@@ -15,8 +15,7 @@ public:
         // sort the first half tp get the lexicographically smallest string
         sort(str.begin(), str.end());
 
-        // reverse the sorted half part to get the remaining part of palindrome
-        // string
+        // reverse the sorted half part to get the remaining part of palindrome string
         rev = str;
         reverse(rev.begin(), rev.end());
 
