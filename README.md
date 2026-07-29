@@ -15,6 +15,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0073-set-matrix-zeroes](https://github.com/muskansangwan-coder/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/muskansangwan-coder/DSA/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/muskansangwan-coder/DSA/tree/main/0205-isomorphic-strings/) | Easy |
+| [0217-contains-duplicate](https://github.com/muskansangwan-coder/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/muskansangwan-coder/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/muskansangwan-coder/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -86,6 +87,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0169-majority-element](https://github.com/muskansangwan-coder/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/muskansangwan-coder/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/muskansangwan-coder/DSA/tree/main/0204-count-primes/) | Medium |
+| [0217-contains-duplicate](https://github.com/muskansangwan-coder/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/muskansangwan-coder/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -119,6 +121,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/muskansangwan-coder/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/muskansangwan-coder/DSA/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/muskansangwan-coder/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/muskansangwan-coder/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/muskansangwan-coder/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
