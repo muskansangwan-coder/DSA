@@ -136,6 +136,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0136-single-number](https://github.com/muskansangwan-coder/DSA/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/muskansangwan-coder/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/muskansangwan-coder/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0476-number-complement](https://github.com/muskansangwan-coder/DSA/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/muskansangwan-coder/DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/muskansangwan-coder/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/muskansangwan-coder/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
