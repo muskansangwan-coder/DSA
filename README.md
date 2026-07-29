@@ -94,6 +94,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0566-reshape-the-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/muskansangwan-coder/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/muskansangwan-coder/DSA/tree/main/0704-binary-search/) | Easy |
+| [0717-1-bit-and-2-bit-characters](https://github.com/muskansangwan-coder/DSA/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0867-transpose-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/muskansangwan-coder/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/muskansangwan-coder/DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
