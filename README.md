@@ -1,9 +1,14 @@
 # DSA
-Solving LeetCode DSA questions <br>
-Progress : 50+ <br>
-Tech Stack : C++ <br>
-Platform : LeetCode <br>
-Goal : Master core DSA for Tier-1 internships and placements <br>
+
+![Language](https://shields.io)
+![Problems](https://shields.io)
+![Target](https://shields.io)
+
+**Solving LeetCode DSA questions** <br>
+**Progress :** 70+ <br>
+**Tech Stack :** C++ <br>
+**Platform :** LeetCode <br>
+**Goal :** Master core DSA for Tier-1 internships and placements <br>
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
