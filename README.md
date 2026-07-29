@@ -19,6 +19,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0242-valid-anagram](https://github.com/muskansangwan-coder/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/muskansangwan-coder/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/muskansangwan-coder/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/muskansangwan-coder/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ Goal : Master core DSA for Tier-1 internships and placements <br>
 | [0704-binary-search](https://github.com/muskansangwan-coder/DSA/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/muskansangwan-coder/DSA/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0867-transpose-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0867-transpose-matrix/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/muskansangwan-coder/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/muskansangwan-coder/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/muskansangwan-coder/DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muskansangwan-coder/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
