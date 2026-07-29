@@ -1,14 +1,10 @@
-# DSA
+# DSA  
 
-![Language](https://shields.io)
-![Problems](https://shields.io)
-![Target](https://shields.io)
-
-Solving LeetCode DSA questions  
-- **Progress:** 70+ Problems  
-- **Tech Stack:** C++ (STL)  
-- **Platform:** LeetCode  
-- **Goal:** Master core DSA for Tier-1 internships and placements  
+**Solving LeetCode DSA questions**  <br><br>
+ 🔥 **Progress:** 70+ Problems  
+ 💻 **Tech Stack:** C++ (STL)  
+ ⚙️ **Platform:** LeetCode  
+ 🎯 **Goal:** Master core DSA for Tier-1 internships and placements  
  
 
 <!---LeetCode Topics Start-->
