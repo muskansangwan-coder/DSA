@@ -1,6 +1,6 @@
 # DSA
 Solving LeetCode DSA questions <br>
-Progress : 16 <br>
+Progress : 50+ <br>
 Tech Stack : C++ <br>
 Platform : LeetCode <br>
 Goal : Master core DSA for Tier-1 internships and placements <br>
