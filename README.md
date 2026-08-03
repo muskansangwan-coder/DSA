@@ -102,6 +102,7 @@
 | [0704-binary-search](https://github.com/muskansangwan-coder/DSA/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/muskansangwan-coder/DSA/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0867-transpose-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0867-transpose-matrix/) | Easy |
+| [0877-stone-game](https://github.com/muskansangwan-coder/DSA/tree/main/0877-stone-game/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/muskansangwan-coder/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/muskansangwan-coder/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/muskansangwan-coder/DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -190,6 +191,7 @@
 | [0204-count-primes](https://github.com/muskansangwan-coder/DSA/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/muskansangwan-coder/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/muskansangwan-coder/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/muskansangwan-coder/DSA/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muskansangwan-coder/DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/muskansangwan-coder/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muskansangwan-coder/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -247,6 +249,7 @@
 | [0053-maximum-subarray](https://github.com/muskansangwan-coder/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/muskansangwan-coder/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muskansangwan-coder/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0877-stone-game](https://github.com/muskansangwan-coder/DSA/tree/main/0877-stone-game/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,4 +275,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/muskansangwan-coder/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/muskansangwan-coder/DSA/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
