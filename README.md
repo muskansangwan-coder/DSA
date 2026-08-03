@@ -56,6 +56,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muskansangwan-coder/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/muskansangwan-coder/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/muskansangwan-coder/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/muskansangwan-coder/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/muskansangwan-coder/DSA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/muskansangwan-coder/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
@@ -192,6 +193,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muskansangwan-coder/DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/muskansangwan-coder/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/muskansangwan-coder/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/muskansangwan-coder/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/muskansangwan-coder/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/muskansangwan-coder/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/muskansangwan-coder/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -227,6 +229,7 @@
 | [0316-remove-duplicate-letters](https://github.com/muskansangwan-coder/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/muskansangwan-coder/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/muskansangwan-coder/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/muskansangwan-coder/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
