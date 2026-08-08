@@ -111,6 +111,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/muskansangwan-coder/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/muskansangwan-coder/DSA/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/muskansangwan-coder/DSA/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
+| [0724-find-pivot-index](https://github.com/muskansangwan-coder/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/muskansangwan-coder/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/muskansangwan-coder/DSA/tree/main/0877-stone-game/) | Medium |
@@ -279,6 +280,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/muskansangwan-coder/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/muskansangwan-coder/DSA/tree/main/0724-find-pivot-index/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
