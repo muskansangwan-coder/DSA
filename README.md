@@ -111,6 +111,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/muskansangwan-coder/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/muskansangwan-coder/DSA/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/muskansangwan-coder/DSA/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/muskansangwan-coder/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/muskansangwan-coder/DSA/tree/main/0877-stone-game/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/muskansangwan-coder/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -240,6 +241,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/muskansangwan-coder/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/muskansangwan-coder/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/muskansangwan-coder/DSA/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/muskansangwan-coder/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,4 +316,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/muskansangwan-coder/DSA/tree/main/0278-first-bad-version/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/muskansangwan-coder/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
