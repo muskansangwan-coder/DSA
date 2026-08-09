@@ -209,6 +209,7 @@
 | [0189-rotate-array](https://github.com/muskansangwan-coder/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/muskansangwan-coder/DSA/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/muskansangwan-coder/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/muskansangwan-coder/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/muskansangwan-coder/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/muskansangwan-coder/DSA/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muskansangwan-coder/DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -248,6 +249,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/muskansangwan-coder/DSA/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/muskansangwan-coder/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/muskansangwan-coder/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +277,7 @@
 | [0053-maximum-subarray](https://github.com/muskansangwan-coder/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/muskansangwan-coder/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muskansangwan-coder/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/muskansangwan-coder/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/muskansangwan-coder/DSA/tree/main/0877-stone-game/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -322,4 +325,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/muskansangwan-coder/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/muskansangwan-coder/DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
