@@ -207,6 +207,7 @@
 | [0013-roman-to-integer](https://github.com/muskansangwan-coder/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/muskansangwan-coder/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/muskansangwan-coder/DSA/tree/main/0050-powx-n/) | Medium |
+| [0069-sqrtx](https://github.com/muskansangwan-coder/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/muskansangwan-coder/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/muskansangwan-coder/DSA/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/muskansangwan-coder/DSA/tree/main/0231-power-of-two/) | Easy |
@@ -234,6 +235,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/muskansangwan-coder/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/muskansangwan-coder/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/muskansangwan-coder/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/muskansangwan-coder/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/muskansangwan-coder/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muskansangwan-coder/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -331,4 +333,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/muskansangwan-coder/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/muskansangwan-coder/DSA/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
