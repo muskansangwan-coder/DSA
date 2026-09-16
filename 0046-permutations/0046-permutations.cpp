@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void solve(vector<int> nums, vector<vector<int>> &ans, int index){
+    void solve(vector<int>& nums, vector<vector<int>> &ans, int index){
         // base case
         if(index >= nums.size()){
             ans.push_back(nums);
@@ -10,7 +10,9 @@ public:
         for(int i = index; i < nums.size(); i++){
             swap(nums[i],nums[index]);
             solve(nums,ans,index+1);
-            //swap(nums[i],nums[index]);
+
+            // backtracking is needed when we pass nums as reference
+            swap(nums[i],nums[index]);
         }
     }
 
