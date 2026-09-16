@@ -81,6 +81,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/muskansangwan-coder/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/muskansangwan-coder/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/muskansangwan-coder/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0046-permutations](https://github.com/muskansangwan-coder/DSA/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/muskansangwan-coder/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/muskansangwan-coder/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/muskansangwan-coder/DSA/tree/main/0054-spiral-matrix/) | Medium |
@@ -350,5 +351,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/muskansangwan-coder/DSA/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/muskansangwan-coder/DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
